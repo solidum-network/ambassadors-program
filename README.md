@@ -1,4 +1,7 @@
 ## Solidum Ambassadors Program
+
+![banner](ambassadors.jpg)
+
 > We’re seeking talented people who will represent our project and communicate our technology and vision to their local communities. [Apply today](https://goo.gl/forms/sEiD7tjRYMZpoL892), and come help us build a decentralized future.
 
 ## About the Program
